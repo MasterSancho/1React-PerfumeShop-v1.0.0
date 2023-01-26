@@ -80,7 +80,7 @@ const ProductListScreen = () => {
     <Col>
      <h1>Products</h1>
     </Col>
-    <Col className='text-right'>
+    <Col className='d-flex justify-content-end'>
      <Button className='my-3' onClick={createProductHandler}>
       <FaPlus />
       Create Product
@@ -103,8 +103,6 @@ const ProductListScreen = () => {
         <th>ID</th>
         <th>NAME</th>
         <th>PRICE</th>
-        <th>CATEGORY</th>
-        <th>BRAND</th>
         <th></th>
        </tr>
       </thead>
@@ -114,8 +112,6 @@ const ProductListScreen = () => {
          <td>{product._id}</td>
          <td>{product.name}</td>
          <td>${product.price}</td>
-         <td>{product.category}</td>
-         <td>{product.brand}</td>
          <td>
           <LinkContainer to={`/admin/product/${product._id}/edit`}>
            <Button variant='light' className='btn-sm'>
