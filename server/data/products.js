@@ -4,7 +4,7 @@ const products = [
   image: '/images/DARK_FLOWER.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 189.99,
+  price: 18.99,
   countInStock: 7,
  },
  {
@@ -28,7 +28,7 @@ const products = [
   image: '/images/FOXY-512.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 499.99,
+  price: 49.99,
   countInStock: 16,
  },
  {
@@ -36,7 +36,7 @@ const products = [
   image: '/images/KELLY_MCMILLION.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 129.99,
+  price: 19.99,
   countInStock: 5,
  },
  {
@@ -44,7 +44,7 @@ const products = [
   image: '/images/NIGHT_DIAMMOND.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 599.99,
+  price: 59.99,
   countInStock: 10,
  },
 
@@ -61,7 +61,7 @@ const products = [
   image: '/images/A_LITTLE_PRINCESS.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 409.99,
+  price: 40.99,
   countInStock: 0,
  },
  {
@@ -69,7 +69,7 @@ const products = [
   image: '/images/PRINCESS_PARTY_CUTE.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 1889.99,
+  price: 89.99,
   countInStock: 7,
  },
  {
@@ -77,7 +77,7 @@ const products = [
   image: '/images/VIVA_LA_VIE.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 929.99,
+  price: 92.99,
   countInStock: 5,
  },
  {
@@ -85,7 +85,7 @@ const products = [
   image: '/images/VANILLA_SPA.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 399.99,
+  price: 39.99,
   countInStock: 10,
  },
  {
@@ -111,7 +111,7 @@ const products = [
   image: '/images/MARISSO_RODRIGO.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 929.99,
+  price: 99.99,
   countInStock: 5,
  },
  {
@@ -119,7 +119,7 @@ const products = [
   image: '/images/MADAME_ORCHIDEA.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 399.99,
+  price: 39.99,
   countInStock: 10,
  },
  {
@@ -135,7 +135,7 @@ const products = [
   image: '/images/512_MVP.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 399.99,
+  price: 39.99,
   countInStock: 10,
  },
  {
@@ -159,7 +159,7 @@ const products = [
   image: '/images/PUDRA.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 599.99,
+  price: 59.99,
   countInStock: 10,
  },
  {
@@ -167,7 +167,7 @@ const products = [
   image: '/images/TOOTS.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 929.99,
+  price: 29.99,
   countInStock: 5,
  },
  {
@@ -175,7 +175,7 @@ const products = [
   image: '/images/GREECE.jpg',
   description:
    'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
-  price: 399.99,
+  price: 39.99,
   countInStock: 10,
  },
  {
