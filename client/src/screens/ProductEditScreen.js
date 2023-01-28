@@ -48,7 +48,7 @@ const ProductEditScreen = () => {
     setDescription(product.description);
    }
   }
- }, [dispatch, navigate, productId, product, successUpdate]);
+ }, [successUpdate, dispatch, navigate, product, productId]);
 
  const uploadFileHandler = async (e) => {
   const file = e.target.files[0];
@@ -127,6 +127,7 @@ const ProductEditScreen = () => {
         placeholder='Enter image url'
         value={image}
         onChange={(e) => setImage(e.target.value)}></Form.Control>
+
        <Form.File
         id='image-file'
         label='Choose File'
